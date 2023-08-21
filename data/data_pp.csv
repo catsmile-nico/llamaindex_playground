@@ -1,0 +1,501 @@
+student_id,course,mothers_occupation,fathers_occupation,scholarship_holder,age_at_enrollment,result
+1,Equinculture,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,30,Dropout
+2,Social Service,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,18,Graduate
+3,Basic Education,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+4,Advertising and Marketing Management,Administrative staff,Armed Forces Professions,no,19,Graduate
+5,Nursing,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,27,Dropout
+6,Social Service (evening attendance),Other Situation,Specialists in Intellectual and Scientific Activities,no,32,Graduate
+7,Journalism and Communication,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,19,Enrolled
+8,Informatics Engineering,Intermediate Level Technicians and Professions,"Personal Services, Security and Safety Workers and Sellers",no,20,Dropout
+9,Nursing,Administrative staff,Intermediate Level Technicians and Professions,no,19,Graduate
+10,Nursing,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+11,Nursing,Installation and Machine Operators and Assembly Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+12,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+13,Nursing,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,33,Dropout
+14,Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+15,Tourism,Administrative staff,Administrative staff,no,19,Dropout
+16,Veterinary Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,21,Enrolled
+17,Nursing,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,19,Enrolled
+18,Animation and Multimedia Design,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,21,Graduate
+19,Management,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,23,Enrolled
+20,Advertising and Marketing Management,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+21,Social Service,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+22,Social Service,Unskilled Workers,Unskilled Workers,no,33,Dropout
+23,Veterinary Nursing,Unskilled Workers,Unskilled Workers,yes,26,Dropout
+24,Social Service,Unskilled Workers,Unskilled Workers,yes,20,Graduate
+25,Agronomy,Unskilled Workers,Unskilled Workers,no,21,Graduate
+26,Advertising and Marketing Management,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+27,Social Service (evening attendance),"Personal Services, Security and Safety Workers and Sellers",Other Situation,no,24,Dropout
+28,Social Service (evening attendance),Unskilled Workers,Unskilled Workers,no,23,Enrolled
+29,Management,Administrative staff,Unskilled Workers,no,18,Enrolled
+30,Journalism and Communication,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,18,Dropout
+31,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Unskilled Workers,no,21,Enrolled
+32,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers",Armed Forces Professions,no,19,Dropout
+33,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,44,Dropout
+34,Journalism and Communication,Student,Student,no,20,Dropout
+35,Social Service (evening attendance),Administrative staff,Administrative staff,no,30,Dropout
+36,Advertising and Marketing Management,Unskilled Workers,Unskilled Workers,yes,18,Enrolled
+37,Social Service,Unskilled Workers,Unskilled Workers,yes,20,Graduate
+38,Management,Unskilled Workers,Armed Forces Professions,no,19,Graduate
+39,Advertising and Marketing Management,Administrative staff,Administrative staff,yes,18,Graduate
+40,Veterinary Nursing,Administrative staff,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,19,Enrolled
+41,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,18,Dropout
+42,Management,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,18,Dropout
+43,Veterinary Nursing,Unskilled Workers,Unskilled Workers,no,18,Graduate
+44,Veterinary Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,21,Dropout
+45,Nursing,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers,no,18,Dropout
+46,Informatics Engineering,"Skilled Workers in Industry, Construction and Craftsmen",Intermediate Level Technicians and Professions,yes,20,Graduate
+47,Social Service,Unskilled Workers,Unskilled Workers,no,18,Graduate
+48,Animation and Multimedia Design,Specialists in Intellectual and Scientific Activities,Administrative staff,no,20,Graduate
+49,Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+50,Nursing,Specialists in Intellectual and Scientific Activities,Intermediate Level Technicians and Professions,no,18,Dropout
+51,Informatics Engineering,Specialists in Intellectual and Scientific Activities,Intermediate Level Technicians and Professions,no,20,Enrolled
+52,Journalism and Communication,Unskilled Workers,Installation and Machine Operators and Assembly Workers,yes,18,Graduate
+53,Nursing,Administrative staff,Administrative staff,no,19,Enrolled
+54,Oral Hygiene,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,19,Dropout
+55,Informatics Engineering,Cleaning workers,"Skilled construction workers and the like, except electricians",no,20,Enrolled
+56,Social Service (evening attendance),Student,Student,no,41,Graduate
+57,Advertising and Marketing Management,"Skilled Workers in Industry, Construction and Craftsmen",Administrative staff,no,20,Graduate
+58,Veterinary Nursing,Other Situation,Other Situation,no,19,Graduate
+59,Nursing,"Personal Services, Security and Safety Workers and Sellers",Installation and Machine Operators and Assembly Workers,no,18,Graduate
+60,Journalism and Communication,Unskilled Workers,Unskilled Workers,no,20,Graduate
+61,Animation and Multimedia Design,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,18,Graduate
+62,Journalism and Communication,Administrative staff,Installation and Machine Operators and Assembly Workers,no,25,Graduate
+63,Oral Hygiene,Unskilled Workers,Unskilled Workers,no,18,Graduate
+64,Nursing,Student,Student,yes,20,Dropout
+65,Tourism,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,20,Graduate
+66,Oral Hygiene,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+67,Journalism and Communication,Unskilled Workers,Unskilled Workers,no,18,Graduate
+68,Management,"Personal Services, Security and Safety Workers and Sellers","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,18,Enrolled
+69,Management,Unskilled Workers,Unskilled Workers,no,18,Dropout
+70,Nursing,Unskilled Workers,Unskilled Workers,no,38,Dropout
+71,Social Service,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,18,Graduate
+72,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Administrative staff,yes,20,Graduate
+73,Journalism and Communication,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,18,Dropout
+74,Agronomy,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,20,Enrolled
+75,Agronomy,Intermediate Level Technicians and Professions,Unskilled Workers,no,21,Graduate
+76,Animation and Multimedia Design,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,18,Graduate
+77,Nursing,Unskilled Workers,Installation and Machine Operators and Assembly Workers,yes,19,Graduate
+78,Management,Unskilled Workers,Unskilled Workers,no,23,Graduate
+79,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,24,Enrolled
+80,Nursing,"Personal Services, Security and Safety Workers and Sellers",Administrative staff,no,18,Graduate
+81,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,19,Dropout
+82,Communication Design,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,32,Dropout
+83,Nursing,Administrative staff,Armed Forces Professions,no,22,Graduate
+84,Nursing,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,18,Dropout
+85,Social Service (evening attendance),Unskilled Workers,Unskilled Workers,no,20,Graduate
+86,Management (evening attendance),Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,25,Enrolled
+87,Social Service,Student,"Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+88,Management,Unskilled Workers,Unskilled Workers,no,20,Graduate
+89,Veterinary Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+90,Management,Intermediate Level Technicians and Professions,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,18,Graduate
+91,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,40,Dropout
+92,Basic Education,"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,yes,19,Dropout
+93,Nursing,Administrative staff,Unskilled Workers,no,19,Graduate
+94,Social Service (evening attendance),Student,Student,no,45,Dropout
+95,Basic Education,Unskilled Workers,Armed Forces Professions,no,20,Dropout
+96,Tourism,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,18,Graduate
+97,Nursing,Administrative staff,Administrative staff,yes,33,Enrolled
+98,Basic Education,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,22,Dropout
+99,Equinculture,Administrative staff,Installation and Machine Operators and Assembly Workers,no,37,Dropout
+100,Tourism,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,35,Dropout
+101,Agronomy,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,21,Graduate
+102,Basic Education,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,41,Graduate
+103,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,22,Graduate
+104,Journalism and Communication,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers,no,25,Dropout
+105,Informatics Engineering,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,25,Enrolled
+106,Basic Education,"Personal Services, Security and Safety Workers and Sellers",Installation and Machine Operators and Assembly Workers,no,22,Enrolled
+107,Social Service,"Skilled Workers in Industry, Construction and Craftsmen","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,19,Graduate
+108,Informatics Engineering,Unskilled Workers,Unskilled Workers,no,21,Dropout
+109,Tourism,"Intermediate level technicians from legal, social, sports, cultural and similar services",,no,22,Dropout
+110,Management (evening attendance),Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,27,Enrolled
+111,Communication Design,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,21,Dropout
+112,Social Service,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,20,Graduate
+113,Veterinary Nursing,Administrative staff,Unskilled Workers,no,20,Graduate
+114,Nursing,Administrative staff,Administrative staff,no,18,Graduate
+115,Advertising and Marketing Management,Administrative staff,Armed Forces Professions,no,19,Graduate
+116,Nursing,Unskilled Workers,Specialists in Intellectual and Scientific Activities,no,18,Graduate
+117,Journalism and Communication,Unskilled Workers,Unskilled Workers,no,19,Enrolled
+118,Social Service (evening attendance),Unskilled Workers,Unskilled Workers,yes,48,Enrolled
+119,Basic Education,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,37,Graduate
+120,Basic Education,Student,Student,no,39,Dropout
+121,Management,Intermediate Level Technicians and Professions,"Personal Services, Security and Safety Workers and Sellers",no,24,Graduate
+122,Tourism,Other Situation,Other Situation,no,48,Dropout
+123,Equinculture,Specialists in Intellectual and Scientific Activities,Installation and Machine Operators and Assembly Workers,no,22,Dropout
+124,Social Service,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,20,Graduate
+125,Equinculture,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,20,Enrolled
+126,Informatics Engineering,Administrative staff,Intermediate Level Technicians and Professions,no,31,Dropout
+127,Equinculture,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+128,Management,Administrative staff,Installation and Machine Operators and Assembly Workers,no,20,Dropout
+129,Oral Hygiene,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+130,Communication Design,Student,Student,no,18,Dropout
+131,Agronomy,Unskilled Workers,Unskilled Workers,yes,19,Graduate
+132,Management,Unskilled Workers,Unskilled Workers,no,26,Enrolled
+133,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,45,Enrolled
+134,Basic Education,Unskilled Workers,Intermediate Level Technicians and Professions,no,20,Enrolled
+135,Basic Education,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+136,Management,Administrative staff,Intermediate Level Technicians and Professions,no,18,Graduate
+137,Management (evening attendance),"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,59,Dropout
+138,Social Service (evening attendance),Unskilled Workers,Unskilled Workers,no,38,Graduate
+139,Management (evening attendance),"Skilled Workers in Industry, Construction and Craftsmen","Personal Services, Security and Safety Workers and Sellers",no,39,Dropout
+140,Tourism,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,26,Enrolled
+141,Tourism,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,21,Dropout
+142,Nursing,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,39,Dropout
+143,Social Service (evening attendance),"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,23,Graduate
+144,Agronomy,"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,yes,23,Graduate
+145,Social Service,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+146,Veterinary Nursing,Administrative staff,Armed Forces Professions,no,19,Graduate
+147,Informatics Engineering,Unskilled Workers,Armed Forces Professions,yes,18,Enrolled
+148,Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,yes,18,Graduate
+149,Oral Hygiene,Unskilled Workers,Unskilled Workers,no,32,Dropout
+150,Informatics Engineering,Administrative staff,Administrative staff,no,21,Enrolled
+151,Nursing,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",yes,25,Enrolled
+152,Basic Education,"Skilled Workers in Industry, Construction and Craftsmen",Student,yes,20,Dropout
+153,Management (evening attendance),"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,27,Graduate
+154,Management,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+155,Informatics Engineering,Administrative staff,Specialists in Intellectual and Scientific Activities,no,18,Dropout
+156,Advertising and Marketing Management,Unskilled Workers,Unskilled Workers,yes,18,Dropout
+157,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+158,Nursing,Unskilled Workers,Administrative staff,no,24,Graduate
+159,Tourism,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,21,Dropout
+160,Social Service (evening attendance),"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,49,Graduate
+161,Nursing,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,32,Enrolled
+162,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,22,Graduate
+163,Veterinary Nursing,Other Situation,Other Situation,no,18,Graduate
+164,Nursing,"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,yes,20,Graduate
+165,Advertising and Marketing Management,Administrative staff,Intermediate Level Technicians and Professions,no,20,Dropout
+166,Equinculture,Administrative staff,Administrative staff,no,19,Dropout
+167,Advertising and Marketing Management,Student,Student,no,19,Dropout
+168,Veterinary Nursing,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,20,Enrolled
+169,Agronomy,Administrative staff,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,20,Enrolled
+170,Management,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,32,Enrolled
+171,Advertising and Marketing Management,Unskilled Workers,Armed Forces Professions,no,21,Enrolled
+172,Tourism,Unskilled Workers,Unskilled Workers,no,41,Graduate
+173,Journalism and Communication,Unskilled Workers,Unskilled Workers,no,52,Graduate
+174,Communication Design,Unskilled Workers,Unskilled Workers,no,19,Graduate
+175,Management,Unskilled Workers,Unskilled Workers,no,25,Dropout
+176,Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+177,Management,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Enrolled
+178,Journalism and Communication,Student,Student,no,26,Dropout
+179,Nursing,Unskilled Workers,Armed Forces Professions,no,18,Graduate
+180,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,28,Graduate
+181,Agronomy,Unskilled Workers,Armed Forces Professions,no,44,Dropout
+182,Animation and Multimedia Design,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,21,Graduate
+183,Communication Design,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,18,Dropout
+184,Oral Hygiene,Administrative staff,Administrative staff,no,54,Dropout
+185,Tourism,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,34,Graduate
+186,Veterinary Nursing,Student,Specialists in Intellectual and Scientific Activities,no,25,Dropout
+187,Equinculture,Other Situation,Other Situation,yes,30,Dropout
+188,Tourism,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,24,Graduate
+189,Management,Unskilled Workers,Installation and Machine Operators and Assembly Workers,yes,18,Graduate
+190,Agronomy,Administrative staff,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,32,Dropout
+191,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,18,Graduate
+192,Informatics Engineering,Intermediate Level Technicians and Professions,"Personal Services, Security and Safety Workers and Sellers",no,24,Enrolled
+193,Animation and Multimedia Design,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+194,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,21,Dropout
+195,Oral Hygiene,Unskilled Workers,Unskilled Workers,no,31,Graduate
+196,Social Service,Administrative staff,Administrative staff,no,48,Dropout
+197,Nursing,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+198,Communication Design,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+199,Agronomy,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Specialists in Intellectual and Scientific Activities,no,22,Dropout
+200,Social Service,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,20,Graduate
+201,Management (evening attendance),"Personal Services, Security and Safety Workers and Sellers",Intermediate Level Technicians and Professions,no,31,Dropout
+202,Management,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+203,Animation and Multimedia Design,"Personal Services, Security and Safety Workers and Sellers",Installation and Machine Operators and Assembly Workers,yes,19,Graduate
+204,Nursing,Unskilled Workers,Unskilled Workers,yes,20,Graduate
+205,Social Service (evening attendance),Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+206,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,36,Dropout
+207,Social Service,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers,yes,18,Graduate
+208,Animation and Multimedia Design,Student,Intermediate Level Technicians and Professions,no,18,Graduate
+209,Journalism and Communication,Student,Student,no,28,Graduate
+210,Basic Education,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,21,Dropout
+211,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+212,Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,18,Dropout
+213,Oral Hygiene,Administrative staff,Armed Forces Professions,no,20,Graduate
+214,Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+215,Nursing,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Intermediate Level Technicians and Professions,no,18,Enrolled
+216,Basic Education,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+217,Veterinary Nursing,Other Situation,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,19,Graduate
+218,Informatics Engineering,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,24,Dropout
+219,Equinculture,Unskilled Workers,Administrative staff,no,24,Dropout
+220,Basic Education,Unskilled Workers,Unskilled Workers,no,19,Enrolled
+221,Nursing,Unskilled Workers,Administrative staff,yes,18,Graduate
+222,Communication Design,"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,yes,21,Graduate
+223,Animation and Multimedia Design,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,19,Dropout
+224,Nursing,Unskilled Workers,Unskilled Workers,no,18,Graduate
+225,Advertising and Marketing Management,Specialists in Intellectual and Scientific Activities,Administrative staff,no,19,Dropout
+226,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,38,Dropout
+227,Tourism,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,21,Graduate
+228,Agronomy,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,29,Dropout
+229,Animation and Multimedia Design,Specialists in Intellectual and Scientific Activities,"Skilled Workers in Industry, Construction and Craftsmen",yes,25,Dropout
+230,Social Service (evening attendance),Unskilled Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,35,Graduate
+231,Nursing,Administrative staff,Administrative staff,yes,28,Graduate
+232,Social Service,Unskilled Workers,Armed Forces Professions,no,44,Dropout
+233,Tourism,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,19,Enrolled
+234,Management,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Enrolled
+235,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,32,Enrolled
+236,Communication Design,Intermediate Level Technicians and Professions,"Skilled Workers in Industry, Construction and Craftsmen",no,31,Enrolled
+237,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,23,Dropout
+238,Social Service (evening attendance),"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+239,Management (evening attendance),Administrative staff,Installation and Machine Operators and Assembly Workers,no,33,Graduate
+240,Social Service,Student,"Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+241,Social Service,"Personal Services, Security and Safety Workers and Sellers",Student,no,21,Graduate
+242,Agronomy,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,24,Dropout
+243,Nursing,Unskilled Workers,Armed Forces Professions,no,39,Dropout
+244,Equinculture,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,19,Enrolled
+245,Management (evening attendance),"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,34,Graduate
+246,Veterinary Nursing,Unskilled Workers,Unskilled Workers,yes,44,Enrolled
+247,Tourism,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,24,Dropout
+248,Tourism,Administrative staff,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,25,Dropout
+249,Tourism,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,20,Graduate
+250,Basic Education,Intermediate Level Technicians and Professions,Installation and Machine Operators and Assembly Workers,no,21,Enrolled
+251,Nursing,Unskilled Workers,Unskilled Workers,no,28,Dropout
+252,Nursing,Intermediate Level Technicians and Professions,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,18,Graduate
+253,Nursing,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers,yes,20,Graduate
+254,Social Service,Unskilled Workers,Unskilled Workers,yes,21,Graduate
+255,Social Service,Administrative staff,Administrative staff,no,20,Graduate
+256,Journalism and Communication,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+257,Oral Hygiene,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",yes,25,Dropout
+258,Social Service,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,18,Dropout
+259,Veterinary Nursing,Administrative staff,Armed Forces Professions,no,19,Graduate
+260,Management,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,20,Enrolled
+261,Social Service,"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,yes,18,Graduate
+262,Journalism and Communication,Intermediate Level Technicians and Professions,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+263,Journalism and Communication,Student,"Personal Services, Security and Safety Workers and Sellers",no,18,Dropout
+264,Social Service (evening attendance),Student,Student,no,37,Dropout
+265,Nursing,Specialists in Intellectual and Scientific Activities,Intermediate Level Technicians and Professions,no,19,Graduate
+266,Management,Unskilled Workers,Intermediate Level Technicians and Professions,yes,20,Graduate
+267,Journalism and Communication,"Skilled Workers in Industry, Construction and Craftsmen",Unskilled Workers,no,19,Graduate
+268,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,37,Graduate
+269,Nursing,Unskilled Workers,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,20,Graduate
+270,Advertising and Marketing Management,Student,Student,no,35,Dropout
+271,Equinculture,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,20,Enrolled
+272,Management,"Workers in food processing, woodworking, clothing and other industries and crafts",Sellers,no,30,Enrolled
+273,Agronomy,Administrative staff,Installation and Machine Operators and Assembly Workers,no,27,Dropout
+274,Advertising and Marketing Management,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Skilled Workers in Industry, Construction and Craftsmen",no,22,Dropout
+275,Social Service,Administrative staff,Unskilled Workers,no,19,Graduate
+276,Tourism,Unskilled Workers,Unskilled Workers,no,19,Graduate
+277,Social Service,Sellers,"Skilled construction workers and the like, except electricians",yes,18,Graduate
+278,Equinculture,Unskilled Workers,Unskilled Workers,no,20,Enrolled
+279,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,18,Graduate
+280,Nursing,Intermediate Level Technicians and Professions,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,18,Graduate
+281,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+282,Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,no,18,Graduate
+283,Management,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+284,Informatics Engineering,Unskilled Workers,Intermediate Level Technicians and Professions,no,25,Dropout
+285,Veterinary Nursing,Other Situation,Other Situation,no,18,Dropout
+286,Nursing,Specialists in Intellectual and Scientific Activities,Administrative staff,no,18,Dropout
+287,Advertising and Marketing Management,Unskilled Workers,Unskilled Workers,no,22,Graduate
+288,Oral Hygiene,Unskilled Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,31,Dropout
+289,Management,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,34,Dropout
+290,Equinculture,Specialists in Intellectual and Scientific Activities,Armed Forces Professions,no,23,Enrolled
+291,Management,Unskilled Workers,Unskilled Workers,no,34,Dropout
+292,Management,Administrative staff,Unskilled Workers,no,19,Enrolled
+293,Agronomy,Unskilled Workers,Specialists in Intellectual and Scientific Activities,no,23,Dropout
+294,Journalism and Communication,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+295,Advertising and Marketing Management,"Personal Services, Security and Safety Workers and Sellers",Administrative staff,yes,20,Graduate
+296,Veterinary Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,24,Graduate
+297,Animation and Multimedia Design,Specialists in Intellectual and Scientific Activities,Installation and Machine Operators and Assembly Workers,no,18,Enrolled
+298,Journalism and Communication,Other Situation,Administrative staff,no,18,Graduate
+299,Nursing,Unskilled Workers,Administrative staff,yes,20,Enrolled
+300,Nursing,Installation and Machine Operators and Assembly Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,18,Graduate
+301,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,41,Graduate
+302,Social Service (evening attendance),Student,Student,no,54,Dropout
+303,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Administrative staff,no,22,Graduate
+304,Social Service (evening attendance),Other Situation,Other Situation,no,41,Graduate
+305,Veterinary Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,24,Dropout
+306,Social Service (evening attendance),"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,37,Graduate
+307,Nursing,"Skilled Workers in Industry, Construction and Craftsmen",Installation and Machine Operators and Assembly Workers,yes,18,Graduate
+308,Tourism,Administrative staff,Intermediate Level Technicians and Professions,no,18,Graduate
+309,Social Service,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,20,Graduate
+310,Tourism,Unskilled Workers,Unskilled Workers,no,25,Enrolled
+311,Tourism,Intermediate Level Technicians and Professions,"Skilled Workers in Industry, Construction and Craftsmen",no,23,Enrolled
+312,Animation and Multimedia Design,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Skilled Workers in Industry, Construction and Craftsmen",no,19,Dropout
+313,Management (evening attendance),Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,31,Enrolled
+314,Agronomy,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",Specialists in Intellectual and Scientific Activities,no,29,Graduate
+315,Animation and Multimedia Design,Unskilled Workers,Unskilled Workers,yes,24,Graduate
+316,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,37,Enrolled
+317,Agronomy,Unskilled Workers,Specialists in Intellectual and Scientific Activities,yes,19,Graduate
+318,Management,Unskilled Workers,Unskilled Workers,no,52,Graduate
+319,Nursing,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+320,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,27,Enrolled
+321,Veterinary Nursing,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,18,Graduate
+322,Veterinary Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,22,Dropout
+323,Basic Education,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+324,Agronomy,Administrative staff,Administrative staff,no,35,Dropout
+325,Informatics Engineering,Student,Student,no,33,Dropout
+326,Advertising and Marketing Management,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,19,Enrolled
+327,Biofuel Production Technologies,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,35,Dropout
+328,Tourism,Unskilled Workers,Administrative staff,no,19,Dropout
+329,Tourism,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,28,Graduate
+330,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Enrolled
+331,Veterinary Nursing,Unskilled Workers,Unskilled Workers,no,19,Graduate
+332,Social Service,Administrative staff,Armed Forces Professions,no,19,Dropout
+333,Advertising and Marketing Management,Administrative staff,Installation and Machine Operators and Assembly Workers,no,19,Enrolled
+334,Veterinary Nursing,Unskilled Workers,Unskilled Workers,no,32,Dropout
+335,Tourism,"Skilled Workers in Industry, Construction and Craftsmen",Armed Forces Professions,no,26,Enrolled
+336,Journalism and Communication,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+337,Oral Hygiene,Health professionals,Other administrative support staff,no,20,Enrolled
+338,Equinculture,Administrative staff,Administrative staff,yes,26,Dropout
+339,Social Service,Intermediate Level Technicians and Professions,"Personal Services, Security and Safety Workers and Sellers",yes,19,Graduate
+340,Informatics Engineering,Administrative staff,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",no,18,Enrolled
+341,Veterinary Nursing,Unskilled Workers,Unskilled Workers,no,19,Graduate
+342,Communication Design,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,28,Dropout
+343,Agronomy,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,47,Enrolled
+344,Tourism,Intermediate Level Technicians and Professions,Armed Forces Professions,no,18,Graduate
+345,Advertising and Marketing Management,Unskilled Workers,Unskilled Workers,no,18,Dropout
+346,Informatics Engineering,Intermediate Level Technicians and Professions,Armed Forces Professions,no,31,Dropout
+347,Management (evening attendance),"Personal Services, Security and Safety Workers and Sellers",Unskilled Workers,no,22,Dropout
+348,Nursing,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,20,Graduate
+349,Management,"Personal Services, Security and Safety Workers and Sellers",Intermediate Level Technicians and Professions,no,20,Enrolled
+350,Nursing,Administrative staff,Administrative staff,no,20,Enrolled
+351,Basic Education,Unskilled Workers,Unskilled Workers,no,20,Dropout
+352,Agronomy,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,31,Dropout
+353,Informatics Engineering,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,30,Dropout
+354,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,41,Dropout
+355,Veterinary Nursing,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",Unskilled Workers,no,19,Graduate
+356,Journalism and Communication,Intermediate Level Technicians and Professions,Specialists in Intellectual and Scientific Activities,no,20,Dropout
+357,Equinculture,Unskilled Workers,Armed Forces Professions,no,44,Dropout
+358,Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,no,20,Dropout
+359,Social Service,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Enrolled
+360,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers",Armed Forces Professions,no,18,Dropout
+361,Basic Education,"Skilled Workers in Industry, Construction and Craftsmen","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,18,Enrolled
+362,Nursing,Unskilled Workers,Unskilled Workers,yes,19,Graduate
+363,Agronomy,Administrative staff,Installation and Machine Operators and Assembly Workers,no,21,Graduate
+364,Social Service,Student,Student,no,47,Dropout
+365,Social Service (evening attendance),"Intermediate level technicians from legal, social, sports, cultural and similar services","Unskilled workers in extractive industry, construction, manufacturing and transport",yes,21,Graduate
+366,Social Service,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,21,Dropout
+367,Journalism and Communication,Installation and Machine Operators and Assembly Workers,Installation and Machine Operators and Assembly Workers,no,18,Graduate
+368,Equinculture,Administrative staff,Installation and Machine Operators and Assembly Workers,no,19,Graduate
+369,Social Service,Unskilled Workers,Unskilled Workers,yes,21,Graduate
+370,Oral Hygiene,Unskilled Workers,Unskilled Workers,no,47,Dropout
+371,Nursing,Unskilled Workers,Unskilled Workers,no,19,Graduate
+372,Nursing,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,19,Graduate
+373,Veterinary Nursing,Unskilled Workers,Administrative staff,no,20,Dropout
+374,Management,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+375,Animation and Multimedia Design,Administrative staff,Intermediate Level Technicians and Professions,no,21,Dropout
+376,Veterinary Nursing,Administrative staff,Unskilled Workers,yes,20,Graduate
+377,Nursing,Intermediate Level Technicians and Professions,Armed Forces Professions,no,19,Graduate
+378,Equinculture,Unskilled Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,31,Dropout
+379,Tourism,Unskilled Workers,Unskilled Workers,no,19,Dropout
+380,Equinculture,"Skilled Workers in Industry, Construction and Craftsmen",Installation and Machine Operators and Assembly Workers,no,19,Dropout
+381,Advertising and Marketing Management,Unskilled Workers,Administrative staff,yes,43,Graduate
+382,Basic Education,Intermediate Level Technicians and Professions,Specialists in Intellectual and Scientific Activities,no,28,Dropout
+383,Journalism and Communication,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,20,Dropout
+384,Animation and Multimedia Design,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,22,Dropout
+385,Biofuel Production Technologies,Administrative staff,Administrative staff,no,35,Dropout
+386,Management,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+387,Nursing,Administrative staff,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,32,Graduate
+388,Nursing,Unskilled Workers,Unskilled Workers,no,39,Enrolled
+389,Communication Design,Unskilled Workers,Unskilled Workers,yes,22,Graduate
+390,Tourism,Administrative staff,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,20,Dropout
+391,Social Service,Student,Student,no,18,Graduate
+392,Journalism and Communication,(blank),Other Situation,no,18,Dropout
+393,Social Service,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+394,Social Service,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,21,Graduate
+395,Nursing,Administrative staff,Administrative staff,no,25,Graduate
+396,Equinculture,Administrative staff,Unskilled Workers,no,35,Dropout
+397,Advertising and Marketing Management,Administrative staff,Armed Forces Professions,no,19,Enrolled
+398,Veterinary Nursing,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,18,Dropout
+399,Nursing,Personal service workers,,no,27,Enrolled
+400,Nursing,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+401,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+402,Equinculture,Unskilled Workers,Unskilled Workers,no,25,Dropout
+403,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,47,Dropout
+404,Animation and Multimedia Design,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,22,Graduate
+405,Tourism,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+406,Nursing,Unskilled Workers,Armed Forces Professions,no,19,Graduate
+407,Oral Hygiene,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+408,Management,Unskilled Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,18,Graduate
+409,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,19,Graduate
+410,Nursing,Unskilled Workers,Unskilled Workers,yes,18,Graduate
+411,Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,19,Graduate
+412,Social Service (evening attendance),Unskilled Workers,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,33,Graduate
+413,Communication Design,Administrative staff,Administrative staff,no,24,Graduate
+414,Advertising and Marketing Management,Administrative staff,Unskilled Workers,no,19,Enrolled
+415,Equinculture,"Personal Services, Security and Safety Workers and Sellers",Intermediate Level Technicians and Professions,no,19,Graduate
+416,Management,Unskilled Workers,Unskilled Workers,no,19,Enrolled
+417,Management,Unskilled Workers,Unskilled Workers,no,49,Graduate
+418,Journalism and Communication,Unskilled Workers,Unskilled Workers,no,18,Graduate
+419,Social Service,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Specialists in Intellectual and Scientific Activities,no,21,Graduate
+420,Equinculture,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+421,Communication Design,"Personal Services, Security and Safety Workers and Sellers",Armed Forces Professions,yes,46,Dropout
+422,Journalism and Communication,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,19,Dropout
+423,Agronomy,Administrative staff,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,21,Graduate
+424,Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,no,18,Graduate
+425,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,35,Graduate
+426,Basic Education,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+427,Tourism,Unskilled Workers,Unskilled Workers,no,21,Dropout
+428,Journalism and Communication,Specialists in Intellectual and Scientific Activities,Specialists in Intellectual and Scientific Activities,no,18,Dropout
+429,Informatics Engineering,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,19,Enrolled
+430,Basic Education,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+431,Agronomy,Intermediate Level Technicians and Professions,Unskilled Workers,no,23,Dropout
+432,Management,Unskilled Workers,Unskilled Workers,yes,19,Dropout
+433,Agronomy,Unskilled Workers,Unskilled Workers,no,60,Graduate
+434,Basic Education,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,35,Graduate
+435,Management,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",Installation and Machine Operators and Assembly Workers,yes,19,Graduate
+436,Equinculture,Intermediate Level Technicians and Professions,Student,no,29,Dropout
+437,Veterinary Nursing,Unskilled Workers,Unskilled Workers,yes,19,Graduate
+438,Management (evening attendance),Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,29,Enrolled
+439,Nursing,"Personal Services, Security and Safety Workers and Sellers",Installation and Machine Operators and Assembly Workers,yes,18,Graduate
+440,Advertising and Marketing Management,Administrative staff,"Skilled Workers in Industry, Construction and Craftsmen",yes,19,Graduate
+441,Management (evening attendance),"Personal Services, Security and Safety Workers and Sellers",Intermediate Level Technicians and Professions,no,33,Graduate
+442,Veterinary Nursing,Unskilled Workers,Unskilled Workers,no,24,Dropout
+443,Advertising and Marketing Management,Specialists in Intellectual and Scientific Activities,Unskilled Workers,no,19,Enrolled
+444,Animation and Multimedia Design,Specialists in Intellectual and Scientific Activities,"Personal Services, Security and Safety Workers and Sellers",no,19,Dropout
+445,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",yes,20,Graduate
+446,Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,yes,21,Graduate
+447,Equinculture,Intermediate Level Technicians and Professions,Specialists in Intellectual and Scientific Activities,no,19,Enrolled
+448,Communication Design,Unskilled Workers,Armed Forces Professions,no,19,Dropout
+449,Animation and Multimedia Design,"Representatives of the Legislative Power and Executive Bodies, Directors, Directors and Executive Managers",Specialists in Intellectual and Scientific Activities,no,20,Enrolled
+450,Agronomy,Administrative staff,Installation and Machine Operators and Assembly Workers,yes,21,Graduate
+451,Informatics Engineering,Unskilled Workers,Unskilled Workers,no,20,Graduate
+452,Veterinary Nursing,Specialists in Intellectual and Scientific Activities,Unskilled Workers,no,28,Dropout
+453,Management (evening attendance),"Skilled Workers in Industry, Construction and Craftsmen",Administrative staff,no,26,Dropout
+454,Management (evening attendance),Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,24,Enrolled
+455,Basic Education,Unskilled Workers,Installation and Machine Operators and Assembly Workers,no,27,Dropout
+456,Basic Education,Intermediate Level Technicians and Professions,Unskilled Workers,no,19,Graduate
+457,Social Service,Installation and Machine Operators and Assembly Workers,Installation and Machine Operators and Assembly Workers,yes,19,Graduate
+458,Agronomy,Specialists in Intellectual and Scientific Activities,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",no,20,Dropout
+459,Nursing,Unskilled Workers,Unskilled Workers,yes,19,Graduate
+460,Social Service,Unskilled Workers,Unskilled Workers,no,21,Dropout
+461,Nursing,Unskilled Workers,"Personal Services, Security and Safety Workers and Sellers",no,20,Graduate
+462,Nursing,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,18,Graduate
+463,Social Service,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+464,Journalism and Communication,Administrative staff,Administrative staff,yes,19,Graduate
+465,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,43,Enrolled
+466,Agronomy,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",Administrative staff,no,35,Graduate
+467,Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,38,Dropout
+468,Nursing,Administrative staff,Administrative staff,no,19,Graduate
+469,Tourism,"Personal Services, Security and Safety Workers and Sellers",Administrative staff,no,20,Dropout
+470,Communication Design,"Personal Services, Security and Safety Workers and Sellers","Skilled Workers in Industry, Construction and Craftsmen",yes,20,Graduate
+471,Advertising and Marketing Management,Other Situation,Other Situation,no,44,Dropout
+472,Management,Administrative staff,Installation and Machine Operators and Assembly Workers,no,19,Graduate
+473,Nursing,Intermediate Level Technicians and Professions,"Skilled Workers in Industry, Construction and Craftsmen",no,18,Enrolled
+474,Journalism and Communication,"Farmers and Skilled Workers in Agriculture, Fisheries and Forestry","Farmers and Skilled Workers in Agriculture, Fisheries and Forestry",yes,49,Graduate
+475,Nursing,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+476,Social Service,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,20,Graduate
+477,Journalism and Communication,Specialists in Intellectual and Scientific Activities,Installation and Machine Operators and Assembly Workers,no,18,Graduate
+478,Management (evening attendance),Unskilled Workers,Unskilled Workers,yes,37,Dropout
+479,Journalism and Communication,Student,Student,no,20,Graduate
+480,Communication Design,Unskilled Workers,Intermediate Level Technicians and Professions,no,23,Dropout
+481,Management (evening attendance),Other Situation,Other Situation,no,55,Dropout
+482,Equinculture,Administrative staff,Unskilled Workers,no,18,Graduate
+483,Animation and Multimedia Design,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",no,25,Dropout
+484,Journalism and Communication,Intermediate Level Technicians and Professions,Intermediate Level Technicians and Professions,no,20,Dropout
+485,Tourism,Unskilled Workers,Unskilled Workers,no,21,Dropout
+486,Communication Design,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",no,20,Dropout
+487,Management (evening attendance),Unskilled Workers,Unskilled Workers,no,34,Dropout
+488,Journalism and Communication,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Dropout
+489,Agronomy,"Personal Services, Security and Safety Workers and Sellers",Specialists in Intellectual and Scientific Activities,no,19,Dropout
+490,Nursing,"Personal Services, Security and Safety Workers and Sellers","Personal Services, Security and Safety Workers and Sellers",no,18,Graduate
+491,Management,Administrative staff,Intermediate Level Technicians and Professions,no,19,Dropout
+492,Management,"Skilled Workers in Industry, Construction and Craftsmen","Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
+493,Communication Design,Administrative staff,"Personal Services, Security and Safety Workers and Sellers",no,19,Graduate
+494,Journalism and Communication,Specialists in Intellectual and Scientific Activities,Administrative staff,no,20,Graduate
+495,Agronomy,Unskilled Workers,Unskilled Workers,no,29,Graduate
+496,Veterinary Nursing,Administrative staff,Installation and Machine Operators and Assembly Workers,no,18,Graduate
+497,Communication Design,Intermediate Level Technicians and Professions,"Personal Services, Security and Safety Workers and Sellers",yes,22,Enrolled
+498,Management,Administrative staff,Intermediate Level Technicians and Professions,no,24,Dropout
+499,Management,Unskilled Workers,Unskilled Workers,no,57,Dropout
+500,Nursing,Unskilled Workers,"Skilled Workers in Industry, Construction and Craftsmen",yes,18,Graduate
